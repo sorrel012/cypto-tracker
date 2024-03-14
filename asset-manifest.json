@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cypto-tracker/static/js/main.2d194b5a.js",
+    "index.html": "/cypto-tracker/index.html",
+    "main.2d194b5a.js.map": "/cypto-tracker/static/js/main.2d194b5a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2d194b5a.js"
+  ]
+}
