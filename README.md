@@ -31,7 +31,6 @@
 ### ◼ 코인 리스트<br>
   <br><br>
 
-
 ### ◼ 코인 상세정보 - Chart<br>
   <br><br>
 
@@ -40,6 +39,7 @@
 
 ## 📁 참고 강의
 - 노마드코더: React JS 마스터클래스
+<br>
 
 ## 🗨 배포
 - https://sorrel012.github.io/cypto-tracker
