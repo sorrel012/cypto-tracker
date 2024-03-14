@@ -25,8 +25,7 @@ function Price() {
   const { data, isLoading } = useQuery<IPriceData>({
     queryKey: ['priceInfo', coinId],
     queryFn: () => fetchCoinTickers(coinId!),
-    refetchInterval: 10000 * 100000000000,
-    // refetchInterval: 10000 * 10000,
+    refetchInterval: 10000 * 10000,
   });
 
   const { data: historyData, isLoading: isHistoryLoading } = useQuery<
