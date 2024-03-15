@@ -22,7 +22,9 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: '/cypto-tracker/' },
+  {
+    basename: process.env.REACT_APP_PROFILE === 'DEV' ? '/' : '/cypto-tracker/',
+  },
 );
 
 export default router;
