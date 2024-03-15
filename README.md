@@ -36,7 +36,9 @@
 <img src="https://github.com/sorrel012/cypto-tracker/assets/115568532/bc179e75-6977-4137-9bce-04674fee0eac" style="width: 500px; height: 500px;" />
   <br><br>
 
+
 ### ◼ 코인 상세정보 - Price<br>
+<img src="https://github.com/sorrel012/cypto-tracker/assets/115568532/58eec0a9-3c48-4563-9555-06e880b0be86" style="width: 500px; height: 450px;" />
   <br>
 
 ## 📁 참고 강의
