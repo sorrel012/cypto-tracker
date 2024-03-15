@@ -1,4 +1,4 @@
-# 📈 Crypto Tracker 
+![image](https://github.com/sorrel012/cypto-tracker/assets/115568532/c1e19624-2ff7-4b1f-add9-b0b663e62e74)![image](https://github.com/sorrel012/cypto-tracker/assets/115568532/6b88d4e7-ae4b-404b-a9dd-99f41e50d7c4)# 📈 Crypto Tracker 
 ### 코인의 정보를 알 수 있는 웹사이트 <br><br>
 
   
@@ -29,9 +29,13 @@
 
 ## 📷화면
 ### ◼ 코인 리스트<br>
+![image](https://github.com/sorrel012/cypto-tracker/assets/115568532/6624c534-4878-40dd-a965-9e9a254227d9)
+
   <br><br>
 
 ### ◼ 코인 상세정보 - Chart<br>
+![image](https://github.com/sorrel012/cypto-tracker/assets/115568532/bc179e75-6977-4137-9bce-04674fee0eac)
+
   <br><br>
 
 ### ◼ 코인 상세정보 - Price<br>
