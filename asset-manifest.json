@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/cypto-tracker/static/js/main.b7d20354.js",
-    "index.html": "/cypto-tracker/index.html",
-    "main.b7d20354.js.map": "/cypto-tracker/static/js/main.b7d20354.js.map"
+    "main.js": "https://sorrel012.github.io/cypto-tracker/static/js/main.ddc6e0aa.js",
+    "index.html": "https://sorrel012.github.io/cypto-tracker/index.html",
+    "main.ddc6e0aa.js.map": "https://sorrel012.github.io/cypto-tracker/static/js/main.ddc6e0aa.js.map"
   },
   "entrypoints": [
-    "static/js/main.b7d20354.js"
+    "static/js/main.ddc6e0aa.js"
   ]
 }
