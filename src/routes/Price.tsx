@@ -41,8 +41,8 @@ function Price() {
     : 0;
   const todayPrice = data ? Number(data.quotes.USD.price) : 0;
 
-  const percent = Number(data?.quotes.USD.percent_change_24h);
   const currency = todayPrice - yesterdayPrice;
+  const percent = (currency / yesterdayPrice) * 100;
 
   return (
     <div>
