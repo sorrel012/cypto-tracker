@@ -29,9 +29,11 @@
 
 ## 📷화면
 ### ◼ 코인 리스트<br>
+<img src="https://github.com/sorrel012/cypto-tracker/assets/115568532/6624c534-4878-40dd-a965-9e9a254227d9" style="width: 500px; height: 600px;" />
   <br><br>
 
 ### ◼ 코인 상세정보 - Chart<br>
+<img src="https://github.com/sorrel012/cypto-tracker/assets/115568532/bc179e75-6977-4137-9bce-04674fee0eac" style="width: 500px; height: 500px;" />
   <br><br>
 
 ### ◼ 코인 상세정보 - Price<br>
