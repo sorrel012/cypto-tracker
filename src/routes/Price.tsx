@@ -69,7 +69,7 @@ function Price() {
             {Math.abs(currency).toFixed(3)}$
           </Tab>
           <Tab className={percent > 0 ? 'plus' : percent < 0 ? 'minus' : ''}>
-            {percent}%
+            {percent.toFixed(2)}%
           </Tab>
         </PriceBox>
       )}
