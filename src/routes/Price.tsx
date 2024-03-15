@@ -52,9 +52,9 @@ function Price() {
         <PriceBox>
           <Tab
             className={
-              percent > 0
+              currency > 0
                 ? 'currency plus'
-                : percent < 0
+                : currency < 0
                   ? 'currency minus'
                   : 'currency'
             }
